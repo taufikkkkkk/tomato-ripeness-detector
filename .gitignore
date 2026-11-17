@@ -1,0 +1,16 @@
+﻿venv/
+.venv/
+__pycache__/
+*.pyc
+.env
+*.jpg
+*.jpeg
+*.png
+*.webp
+*.gif
+*.bmp
+static/uploads/
+static/results/
+
+venv311/
+*venv*/

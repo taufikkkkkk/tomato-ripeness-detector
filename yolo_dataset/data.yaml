@@ -1,0 +1,6 @@
+﻿path: C:/Users/LENOVO/OneDrive/Documents/Tugas Pak mukroji/tomato_ripeness_detector/yolo_dataset
+train: images/train
+val: images/val
+
+names:
+  0: tomato
